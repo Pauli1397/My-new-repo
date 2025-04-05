@@ -1,3 +1,5 @@
-$ ls -a
+import streamlit as st
 
-.git .gitignore .streamlit app.py README.md requirements.txt
+st.header('Lanzar una moneda')
+
+st.write('Esta aplicación aún no es funcional. En construcción.')
